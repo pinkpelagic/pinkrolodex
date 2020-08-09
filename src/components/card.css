@@ -1,0 +1,14 @@
+.Card-Container {
+    background-color: #ec3e56;
+    padding: 25px;
+    border-radius: 6px;
+    border: 2px solid #FF847C;
+    opacity: 0.9;
+    text-align: center;
+}
+
+.Card-Container:hover {
+    opacity: 1;
+    
+
+}

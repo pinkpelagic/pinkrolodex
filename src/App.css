@@ -1,0 +1,16 @@
+body{
+  background-color: #f7b2ad;  
+}
+
+.App {
+  text-align: center;
+  font-size: 25px;
+  color: #2A363B;
+  font-family: cursive;
+}
+
+.h1 {
+  font-family: 'Faster One';
+  font-size: 65px;
+  color: #2A363B;
+}
