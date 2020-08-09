@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pinkrolodex/static/css/main.5ea5de50.chunk.css",
+    "main.js": "/pinkrolodex/static/js/main.90edee0a.chunk.js",
+    "main.js.map": "/pinkrolodex/static/js/main.90edee0a.chunk.js.map",
+    "runtime-main.js": "/pinkrolodex/static/js/runtime-main.f3f91275.js",
+    "runtime-main.js.map": "/pinkrolodex/static/js/runtime-main.f3f91275.js.map",
+    "static/js/2.5d4b32d5.chunk.js": "/pinkrolodex/static/js/2.5d4b32d5.chunk.js",
+    "static/js/2.5d4b32d5.chunk.js.map": "/pinkrolodex/static/js/2.5d4b32d5.chunk.js.map",
+    "index.html": "/pinkrolodex/index.html",
+    "precache-manifest.4cc2748e8b5a6ea7233bdd351b223fee.js": "/pinkrolodex/precache-manifest.4cc2748e8b5a6ea7233bdd351b223fee.js",
+    "service-worker.js": "/pinkrolodex/service-worker.js",
+    "static/css/main.5ea5de50.chunk.css.map": "/pinkrolodex/static/css/main.5ea5de50.chunk.css.map",
+    "static/js/2.5d4b32d5.chunk.js.LICENSE.txt": "/pinkrolodex/static/js/2.5d4b32d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3f91275.js",
+    "static/js/2.5d4b32d5.chunk.js",
+    "static/css/main.5ea5de50.chunk.css",
+    "static/js/main.90edee0a.chunk.js"
+  ]
+}
